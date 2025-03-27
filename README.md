@@ -1,4 +1,4 @@
-# SL multiple image catalog used to reconstruct the mass map of the Bullet Cluster.
+# SL multiple image catalog of the Bullet Cluster
 -------------------------------------------- 
 
 For SL sources without spectroscopic redshifts, we treat their redshifts as free parameters, constrained by prior intervals based on the uncertainties from photometric redshift estimates. 
